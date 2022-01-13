@@ -4,13 +4,6 @@
 * Autoprefixer: v10.3.1
 * Browsers: last 4 version
 */
-
-/*
-* Prefixed by https://autoprefixer.github.io
-* PostCSS: v8.3.6,
-* Autoprefixer: v10.3.1
-* Browsers: last 4 version
-*/
 /*
 * Prefixed by https://autoprefixer.github.io
 * PostCSS: v8.3.6,
@@ -133,10 +126,12 @@ img {
 .hero__inner__title {
   padding-top: 137px;
   width: 200px;
+  margin-bottom: 24px;
   font-weight: 900;
   font-size: 40px;
   line-height: 48px;
   color: #FEFCF7;
+  padding-left: 38px;
 }
 
 .hero__inner__text {
@@ -146,6 +141,11 @@ img {
   line-height: 26px;
   color: #FEFCF7;
   padding-bottom: 137px;
+  padding-left: 38px;
+}
+
+.our__inner {
+  margin-bottom: 250px;
 }
 
 .our__inner__box {
@@ -158,6 +158,10 @@ img {
 
 .our__inner__left {
   width: 485px;
+}
+
+.our__inner__left__img {
+  border-radius: 10px;
 }
 
 .our__inner__left + .our__inner___right {
@@ -208,6 +212,10 @@ img {
   position: relative;
   z-index: 2;
   top: -100px;
+}
+
+.quality__inner__left__img {
+  border-radius: 10px;
 }
 
 .quality__inner__box + .quality__inner__left {
@@ -286,6 +294,7 @@ img {
   /* margin-top: 1100px; */
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 88px;
 }
 
 .footer__inner {
@@ -343,3 +352,4 @@ img {
 .footer__inner__socials__link:active {
   background: #FDD6BA;
 }
+/*# sourceMappingURL=main.css.map */

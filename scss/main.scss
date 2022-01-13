@@ -166,11 +166,12 @@ img{
     
     padding-top: 137px;
     width: 200px;
-    // height: 48px;
+    margin-bottom: 24px;
     font-weight: 900;
     font-size: 40px;
     line-height: 48px;
     color: #FEFCF7;
+    padding-left: 38px;
     
     
     
@@ -185,6 +186,7 @@ img{
     line-height: 26px;
     color: #FEFCF7;
     padding-bottom: 137px;
+    padding-left: 38px;
 }
 
 
@@ -196,7 +198,9 @@ img{
 
 
 
-
+.our__inner{
+    margin-bottom: 250px;
+}
 
 
 
@@ -209,6 +213,10 @@ img{
 
 .our__inner__left{
     width: 485px;
+}
+
+.our__inner__left__img{
+    border-radius: 10px;
 }
 
 .our__inner__left+.our__inner___right{
@@ -265,6 +273,9 @@ img{
     
     top: -100px;
     
+}
+.quality__inner__left__img{
+    border-radius: 10px;
 }
 
 
@@ -355,6 +366,7 @@ img{
     /* margin-top: 1100px; */
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: 88px;
 }
 
 
