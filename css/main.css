@@ -4,6 +4,13 @@
 * Autoprefixer: v10.3.1
 * Browsers: last 4 version
 */
+
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
 /*
 * Prefixed by https://autoprefixer.github.io
 * PostCSS: v8.3.6,
@@ -309,7 +316,7 @@ img {
 
 .footer__link {
   width: 203px;
-  height: 24px;
+  margin-left: 106px;
   margin-right: 103px;
 }
 
@@ -318,7 +325,7 @@ img {
   display: -ms-flexbox;
   display: flex;
   padding-left: 0;
-  padding-right: 370px;
+  padding-right: 270px;
   margin-top: 53px;
   margin-bottom: 51px;
 }
@@ -352,4 +359,3 @@ img {
 .footer__inner__socials__link:active {
   background: #FDD6BA;
 }
-/*# sourceMappingURL=main.css.map */
